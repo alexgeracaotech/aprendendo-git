@@ -38,3 +38,10 @@ git commit -m "mensagem de commit"
 ~~~ bash
 git remote add origin https://github.com/nomeDoUsuario/nomeDoRepositorio.git
 ~~~
+
+### git push
+- Comando para empurrar repositório local para sua origem remota.
+
+~~~ bash
+git push -u origin main
+~~~
