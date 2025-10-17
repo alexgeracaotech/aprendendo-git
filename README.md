@@ -52,3 +52,10 @@ git push -u origin main
 ~~~ bash
 git clone https://github.com/nomeDoUsuario/nomeDoRepositorio.git
 ~~~
+
+### git pull
+- Comando para puxar alterações feitas no repositório remoto para o local.
+
+~~~ bash
+git pull
+~~~
