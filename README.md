@@ -27,3 +27,7 @@ git add nome-do-arquivo
 
 ### git commit
 - Comando para criar pontos na história do arquivo.
+
+~~~ bash
+git commit -m "mensagem de commit"
+~~~
