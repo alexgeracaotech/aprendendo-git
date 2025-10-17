@@ -45,3 +45,10 @@ git remote add origin https://github.com/nomeDoUsuario/nomeDoRepositorio.git
 ~~~ bash
 git push -u origin main
 ~~~
+
+### git clone
+- Comando para clonar repositório remoto localmente.
+
+~~~ bash
+git clone https://github.com/nomeDoUsuario/nomeDoRepositorio.git
+~~~
