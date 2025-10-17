@@ -31,3 +31,10 @@ git add nome-do-arquivo
 ~~~ bash
 git commit -m "mensagem de commit"
 ~~~
+
+### git remote
+- Comando para adicionar a origem do respositío local para com o remoto.
+
+~~~ bash
+git remote add origin https://github.com/nomeDoUsuario/nomeDoRepositorio.git
+~~~
