@@ -1,5 +1,5 @@
 
-# GIT
+# Aprendendo Git
 
 ## Comandos Iniciais
 
